@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF"/>
 </p>
 
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="300" height="320" align="right"/>
@@ -36,7 +36,7 @@
   </tr>
 </table>
   
-  <table height="160">
+  <table height="180">
   <!-- Frameworks and Libraries -->
   <tr>
     <th colspan="10">🛠 Frameworks & Libraries</th>
@@ -58,7 +58,7 @@
       <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="efcore" width="50" height="50" />
       <br>Entity Framework Core
     </td>
-    <td align="center"  width="100">
+    <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcz1M1tFjwgc0dfWA_Ci46k9QcIKJbiP_2S4EYsZ3gP8PMkDrXUZM8mOhjvlUbBQb-VCQ&usqp=CAU" 
         width="50" height="50" alt="webapi" />
       <br>Web API
