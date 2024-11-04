@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF" height="200" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF" height="300" width="700"/>
 </p>
 
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="300" height="320" align="right"/>
