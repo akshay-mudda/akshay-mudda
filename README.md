@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF"/>
+  <img src="https://github.com/user-attachments/assets/1abcdcd4-61de-4a06-94f5-96de4892491b" alt="GIF" height="400" width="400"/>
 </p>
 
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="300" height="320" align="right"/>
@@ -60,7 +60,7 @@
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcz1M1tFjwgc0dfWA_Ci46k9QcIKJbiP_2S4EYsZ3gP8PMkDrXUZM8mOhjvlUbBQb-VCQ&usqp=CAU" 
-        width="50" height="50" alt="webapi" />
+        width="80" height="50" alt="webapi" />
       <br>Web API
     </td>
     <td align="center">
