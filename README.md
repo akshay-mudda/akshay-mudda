@@ -29,14 +29,14 @@
       <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL" width="50" height="50" />
       <br>MS-SQL
     </td>
-    <td align="center">
+    <!--<td align="center">
       <img src="https://skillicons.dev/icons?i=go" alt="go" width="50" height="50" />
       <br>Go-Lang
-    </td>
+    </td>-->
   </tr>
 </table>
   
-  <table height="180">
+  <table>
   <!-- Frameworks and Libraries -->
   <tr>
     <th colspan="10">🛠 Frameworks & Libraries</th>
