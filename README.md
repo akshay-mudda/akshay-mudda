@@ -47,7 +47,7 @@
       <br>WinForms
     </td>
     <td align="center">
-      <img src="https://images.javatpoint.com/ado/images/ado-net-tutorial.jpg" width="50" height="50" alt="ado" />
+      <img src="https://ideologylab.in/Uploads/Courses/adonet.png" width="50" height="50" alt="ado" />
       <br>ADO.NET
     </td>
     <td align="center">
